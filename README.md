@@ -17,3 +17,12 @@ The refactored script is a success! As seen between the original times and the r
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/87910875/132262568-853ddafc-9e0d-4f58-9d3b-2667de07bfbb.png)
 
 As seen in the images, the refactored code is about 150% faster to analyze 12 stocks for both years. To put this in perspective, if we were to run the original script for all 2,800 companies within the New York Stock Exchange it would take about 4 minutes more than the refactored script.
+
+## Summary
+
+###### Advantages
+
+The first obvious advantage is that the refactored script runs faster. As mentioned within the result, imagine the time it would take to run an analysis of every publically traded company in the world or to analyze more than just the two years. Another advantage is the simplicity of the script, it isn't cluttered with potentially redundent code and is also easier to read. Lastly, the refactored code is more efficient which, using less processing power that can be better used on anothe project within a company.
+
+###### Disadvantages
+I can see the potential of excluding necessary code that may have been deemed redundent which could cause the results to be skewed or an error.
