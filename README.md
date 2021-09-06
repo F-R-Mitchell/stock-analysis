@@ -25,7 +25,7 @@ As seen in the images, the refactored code is about 150% faster to analyze 12 st
 The first obvious advantage is that the refactored script runs faster. As mentioned within the result, imagine the time it would take to run an analysis of every publically traded company in the world or to analyze more than just the two years. Another advantage is the simplicity of the script, it isn't cluttered with potentially redundant code and is also easier to understand. Lastly, the refactored code is more efficient, using less processing power that can be better used on anothe project within a company.
 
 ###### Disadvantages
-I can see the potential of excluding necessary code that may have been deemed redundent which could cause the results to be skewed or an error. Refactoring code can also introduce bugs that could completely break a script.
+I can see the potential of excluding necessary code that may have been deemed redundant which could cause the results to be skewed or an error. Refactoring code can also introduce bugs that could completely break a script.
 
 ###### How the P's/C's Apply
 
